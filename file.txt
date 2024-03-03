@@ -1,2 +1,0 @@
-Python has a built-in open() function to open a file. 
-This function returns a file object, also called a handle, as it is used to read or modify the file
